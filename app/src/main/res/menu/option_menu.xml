@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/linear"
+        android:title="Linear"/>
+
+    <item
+        android:id="@+id/stagger"
+        android:title="Stagger"/>
+
+    <item
+        android:id="@+id/deleteAll"
+        android:title="Delete all notes"/>
+</menu>
